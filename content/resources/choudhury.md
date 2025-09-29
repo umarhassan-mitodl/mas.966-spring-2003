@@ -5,6 +5,8 @@ description: Lecture presentation on a study of human networks using wearable se
 file: /courses/mas-966-digital-anthropology-spring-2003/1f3046ed0ecc3233535fb0e4fe30b2c0_choudhury.pdf
 file_size: 902058
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

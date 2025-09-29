@@ -4,6 +4,8 @@ description: Slides introducing class project.
 file: /courses/mas-966-digital-anthropology-spring-2003/419dfde32a134d58bbbc9729aa116ed1_experiment.pdf
 file_size: 552519
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
