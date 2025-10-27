@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides external links to related resources for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -12,16 +10,16 @@ uid: 36995554-f2c4-a43f-da87-f30029da0470
 Links
 -----
 
-[Reality Mining](http://reality.media.mit.edu/)
+{{% resource_link "28cb6a40-d263-41b1-a9a4-785cd1337608" "Reality Mining" %}}
 
-[Shortcuts](http://web.media.mit.edu/~tanzeem/projects.htm)
+{{% resource_link "4954e997-8f32-483c-8432-8c3947b1ca10" "Shortcuts" %}}
 
-[The Sociometer: A Wearable Device for Understanding Human Networks](http://www.media.mit.edu/~tanzeem/shortcuts/workingpaper.pdf)
+{{% resource_link "b313ac0c-e2d3-42bc-bb6b-d32bdfd09521" "The Sociometer: A Wearable Device for Understanding Human Networks" %}}
 
 Spotme @ DAVOS
 
-[MIT Technology Testbed presentation](http://web.media.mit.edu/~jpbonsen/MIT-Technology-Testbeds.ppt)
+{{% resource_link "fff4fb6e-1561-4f46-a6a4-291a685d5829" "MIT Technology Testbed presentation" %}}
 
-[MIT Project Mercury proposal -- advocating a Wireless Project Athena, a specific Tech Testbed effort.](http://web.media.mit.edu/~jpbonsen/MIT-Project-Mercury.htm)
+{{% resource_link "9c5e2b4e-612a-4e91-821f-0b254a3d559a" "MIT Project Mercury proposal -- advocating a Wireless Project Athena, a specific Tech Testbed effort." %}}
 
-[Wearable & Mobile Computing links](http://www.hitl.washington.edu/projects/knowledge_base/wearable.html)
+{{% resource_link "b138ad2f-4833-4854-85cb-b4783dc5204c" "Wearable & Mobile Computing links" %}}

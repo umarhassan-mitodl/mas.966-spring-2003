@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, expected student deliverables, credits, target student population,
   interwoven themes, sections, and potential speakers.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -84,7 +82,7 @@ We will review live and historical research projects – from within and beyond 
     *   Project Oxygen
     *   Paperless Classroom
     *   MasterCard RF Payments
-    *   [Spotme](http://www.spotme.info/)
+    *   {{% resource_link "a19e11d9-1876-4076-8966-493b84466f37" "Spotme" %}}
 3.  Speculative and Emerging Cases
     *   Project Mercury
     *   MyTags

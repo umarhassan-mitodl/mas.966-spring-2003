@@ -4,8 +4,6 @@ description: Student proposals for the Spring 2003 class project.
 file: /courses/mas-966-digital-anthropology-spring-2003/028f3bd00dd7bf4dbb25b43cf349143c_project.pdf
 file_size: 119602
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

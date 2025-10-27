@@ -5,8 +5,6 @@ description: The Hall of Heroes, an idea of digital-signal displays visible only
 file: /courses/mas-966-digital-anthropology-spring-2003/5109d7adf4214cc68231790ea95a799f_mas-966s03-th.jpg
 file_size: 2278
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: The Hall of Heroes, an idea of digital-signal displays visible only to
     people wearing certain receptive glasses. (Image by Sandy Pentland.)

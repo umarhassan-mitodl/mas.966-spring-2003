@@ -4,8 +4,6 @@ description: Lecture presentation with an introduction to the course and digital
 file: /courses/mas-966-digital-anthropology-spring-2003/f3aae3c58d6d0e8cdee5b540709674fe_daintro.pdf
 file_size: 1479515
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
